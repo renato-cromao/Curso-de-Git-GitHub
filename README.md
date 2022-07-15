@@ -11,7 +11,7 @@ O Git, é o Sistema de controle de versão moderno mais usado no mundo hoje é o
 
 
 Referências
-<https://www.atlassian.com/br/git/tutorials/what-is-git> 
-<https://pt.wikipedia.org/wiki/Git> 
-<https://www.atlassian.com/br/git/tutorials/what-is-git> 
-<https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-O-B%C3%A1sico-do-Git>
+- <https://www.atlassian.com/br/git/tutorials/what-is-git>
+- <https://pt.wikipedia.org/wiki/Git> 
+- <https://www.atlassian.com/br/git/tutorials/what-is-git> 
+- <https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-O-B%C3%A1sico-do-Git>
